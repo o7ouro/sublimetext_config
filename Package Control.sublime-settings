@@ -1,6 +1,13 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"Package Control"
+		"AdvancedNewFile",
+		"Emmet",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"SyncedSideBar"
 	]
 }
